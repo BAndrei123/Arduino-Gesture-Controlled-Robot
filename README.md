@@ -3,7 +3,7 @@ The purpose of this project is to implement a hand-controlled robot using Arduin
 has lots of very advanced projects that respond to very complex tasks. We will only focus on
 the simple task of controlling the movement of the robot by hand gesture
 
-#Motivation
+# Motivation
 
 The motivation behind it is to explore human-machine interaction through intuitive hand
 gestures, offering a unique and engaging way to control a robotic vehicle. Our educational
