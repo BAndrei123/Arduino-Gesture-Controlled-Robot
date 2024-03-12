@@ -8,3 +8,7 @@ the simple task of controlling the movement of the robot by hand gesture
 The motivation behind it is to explore human-machine interaction through intuitive hand
 gestures, offering a unique and engaging way to control a robotic vehicle. Our educational
 motivation is to gain more knowledge about the Arduino microprocessor.
+
+# Demo 
+
+![](Documentation and Video/Demo.gif)
