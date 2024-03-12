@@ -11,4 +11,4 @@ motivation is to gain more knowledge about the Arduino microprocessor.
 
 # Demo 
 
-![](https://github.com/BAndrei123/Arduino-Gesture-Controlled-Robot/tree/main/Documentation%20and%20Video)
+![](Documentation and Video/Demo.gif)
